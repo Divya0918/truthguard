@@ -1,0 +1,47 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB)
+DOCUMENT: POL-009 | Digital Banking, UPI and Internet Banking Policy
+VERSION: 1.3 | STATUS: ACTIVE | EFFECTIVE: 2024-05-01
+CLASSIFICATION: PUBLIC | SYNTHETIC DEMO DATA ONLY
+================================================================================
+
+SECTION 1: MOBILE BANKING — MNB SmartApp
+Daily transaction limit (IMPS/UPI): INR 2,00,000 per day
+Fund transfer daily limit (NEFT): INR 10,00,000 per day
+Bill payment monthly limit: INR 5,00,000
+Self-account transfer: Unlimited
+
+SECTION 2: INTERNET BANKING — MNB NetBanking
+
+2.1 Transaction Limits
+NEFT: INR 10,00,000 per day per beneficiary; INR 25,00,000 per day total
+RTGS: Minimum INR 2,00,000; Maximum INR 2,00,00,000 per transaction
+UPI (linked): INR 1,00,000 per transaction; INR 1,00,000 per day
+
+2.2 New Beneficiary Cooling Period
+First transfer to a new beneficiary: Maximum INR 25,000 in first 24 hours.
+Cooling period waived for existing MNB account holders added as beneficiaries.
+
+SECTION 3: UPI — MNB @upi
+UPI ID format: registered_mobile@mnb
+Daily limit: INR 1,00,000 (per RBI guidelines)
+Per transaction: INR 1,00,000
+Merchant payments via UPI: Up to INR 2,00,000 (special category merchants)
+UPI Lite (offline): INR 500 per transaction; INR 4,000 wallet balance
+
+SECTION 4: SECURITY POLICY
+4.1 MNB will NEVER ask for OTP, PIN, CVV, or passwords via call, email, or SMS.
+4.2 Report suspicious calls immediately: Toll-free 1800-123-4567
+4.3 Two-factor authentication (2FA) is mandatory for all transactions above INR 5,000.
+4.4 Device binding: Each account may be linked to a maximum of 2 mobile devices.
+4.5 Auto-block: Account blocked after 5 consecutive wrong MPIN attempts.
+
+SECTION 5: CHARGES FOR DIGITAL TRANSACTIONS
+IMPS (via app): Free up to 10 transactions per month; INR 5 per transaction thereafter
+NEFT (online): Free
+RTGS (online): Free
+UPI: Free (as per NPCI guidelines)
+SMS alerts: INR 15 per month (waived for Premium and Elite savings accounts)
+
+Document Ref: MNB/POL/009/2024 | Approved by: Head of Digital Banking
+================================================================================

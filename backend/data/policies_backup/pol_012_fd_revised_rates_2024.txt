@@ -1,0 +1,88 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — POLICY CIRCULAR
+DOCUMENT CLASSIFICATION: ACTIVE TREASURY DIRECTIVE
+[SYNTHETIC TEST DATA — FOR TESTING AND DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+DOCUMENT ID: MNB-POL-012
+TITLE: Fixed Deposit Interest Rate — Revised Schedule (CURRENT)
+VERSION: 2.0 (SUPERSEDES MNB-POL-001 v1.0 IN ITS ENTIRETY)
+EFFECTIVE DATE: 2024-09-01
+EXPIRY DATE: Open / Until further notice
+APPROVAL STATUS: Approved by Board Asset-Liability Management Committee (ALCO)
+DEPARTMENT: Retail Liabilities & Treasury Products Group
+TARGET AUDIENCE: All Branches, Wealth Advisors, Core Banking Operations
+
+--------------------------------------------------------------------------------
+1. EXECUTIVE SUMMARY & REVISED MANDATE
+--------------------------------------------------------------------------------
+This circular promulgates the REVISED and CURRENT interest rate schedule for domestic 
+retail Term and Fixed Deposits (FDs) accepted by Meridian National Bank (MNB). 
+
+REGULATORY NOTICE ON SUPERSEDED STATUS: 
+This circular SUPERSEDES and REPLACES policy circular MNB-POL-001 (Version 1.0, 
+dated 2023-01-01) with immediate effect from September 1, 2024. All branches, 
+online portals, mobile applications, and marketing materials must immediately 
+discontinue quoting rates from MNB-POL-001. All new fixed deposits booked and 
+all renewals processed on or after September 1, 2024, shall strictly be governed 
+by the revised rate structure below.
+
+--------------------------------------------------------------------------------
+2. REVISED FIXED DEPOSIT INTEREST RATE SCHEDULE (CURRENT & IN EFFECT)
+--------------------------------------------------------------------------------
+Applicable to domestic retail deposits below INR 20,000,000 (Two Crores):
+
++------------------------+----------------------+-----------------------------+
+| Tenure Bucket          | Standard Rate (% p.a)| Senior Citizen Rate (% p.a) |
++------------------------+----------------------+-----------------------------+
+| 7 days to 14 days      | 4.00%                | 4.50%                       |
+| 15 days to 45 days     | 4.25%                | 4.75%                       |
+| 46 days to 90 days     | 5.00%                | 5.50%                       |
+| 91 days to 180 days    | 5.75%                | 6.25%                       |
+| 181 days to 364 days   | 6.50%                | 7.00%                       |
+| 1 year to < 2 years    | 7.00%                | 7.50%                       |
+| 2 years to < 3 years   | 7.25%                | 7.75%                       |
+| 3 years to < 5 years   | 7.00%                | 7.50%                       |
+| 5 years to 10 years    | 6.75%                | 7.25%                       |
++------------------------+----------------------+-----------------------------+
+
+Comparison with Superseded Schedule (MNB-POL-001):
+Across all tenures, rates have been revised upwards by 25 to 50 basis points (+0.25% 
+to +0.50% p.a.) in alignment with elevated market liquidity dynamics and repo rate 
+benchmarks. The peak rate is 7.25% p.a. (7.75% for senior citizens) for the 2 years 
+to less than 3 years bucket.
+
+--------------------------------------------------------------------------------
+3. SENIOR CITIZEN AND SUPER SENIOR INCENTIVES
+--------------------------------------------------------------------------------
+- Senior Citizens (Age 60 to 79 years): Continue to receive an additional +0.50% p.a. 
+  across all tenure options.
+- Super Senior Citizens (Age 80 years and above): Entitled to a special "MNB Care Plus" 
+  premium of +0.75% p.a. for tenure buckets of 3 years and above (yielding 7.75% for 
+  3-5 years and 7.50% for 5-10 years).
+- Proof of age must be verified using Aadhaar, PAN, or Passport prior to rate assignment.
+
+--------------------------------------------------------------------------------
+4. PREMATURE WITHDRAWAL POLICY UPDATE
+--------------------------------------------------------------------------------
+Liquidations prior to contracted maturity are governed as follows:
+- No interest is paid if the deposit is withdrawn within 7 days of opening.
+- For deposits withdrawn prematurely after 7 days, interest is calculated at the rate 
+  applicable on the date of placement for the period deposit remained with MNB, 
+  subject to a 0.50% penal reduction (reduced from 1.00% in previous version MNB-POL-001 
+  to promote depositor fairness).
+
+--------------------------------------------------------------------------------
+5. TAX SAVER DEPOSITS & BULK CRITERIA
+--------------------------------------------------------------------------------
+- 5-Year MNB Tax Saver FD: Card rate fixed at 7.00% p.a. (7.50% for senior citizens). 
+  Lock-in period: 5 years strict. No premature withdrawal or loan lien permitted.
+- Bulk Deposits (INR 20,000,000 and above): Subject to special treasury rate card 
+  issued daily; not eligible for standard retail card rates or retail senior bonus.
+
+--------------------------------------------------------------------------------
+6. POLICY EXCEPTIONS
+--------------------------------------------------------------------------------
+1. Staff and Retired Staff: Additional 1.00% over the standard rate (senior staff 
+   receive staff rate + 0.50% senior citizen bonus, total +1.50%).
+2. Demise of Depositor: Total exemption from premature penalty for legal heirs.

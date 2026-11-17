@@ -1,0 +1,95 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — REGULATORY POLICY CIRCULAR
+DOCUMENT CLASSIFICATION: ANTI-MONEY LAUNDERING & CUSTOMER DUE DILIGENCE (AML-CDD)
+[SYNTHETIC TEST DATA — FOR TESTING AND DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+DOCUMENT ID: MNB-POL-009
+TITLE: KYC and Identity Verification Policy
+VERSION: 6.1
+EFFECTIVE DATE: 2024-01-01
+APPROVAL STATUS: Approved by Board Audit Committee & Principal Compliance Officer
+DEPARTMENT: Anti-Money Laundering (AML) & Central KYC Records Registry Desk
+TARGET AUDIENCE: All Branch Staff, Customer Onboarding Agents, Audit Inspectors
+
+--------------------------------------------------------------------------------
+1. REGULATORY FRAMEWORK & OBJECTIVE
+--------------------------------------------------------------------------------
+This policy outlines the Know Your Customer (KYC), Customer Due Diligence (CDD), 
+and customer identification procedures enforced by Meridian National Bank (MNB) 
+in strict adherence to the Prevention of Money Laundering Act (PMLA) and central 
+banking Master Directions. MNB maintains zero tolerance for anonymous accounts, 
+benami holdings, and illicit capital flows.
+
+--------------------------------------------------------------------------------
+2. OFFICIALLY VALID DOCUMENTS (OVD) MATRIX
+--------------------------------------------------------------------------------
+Individual customers must establish both Proof of Identity (POI) and Proof of 
+Address (POA) using the approved documents specified below:
+
++----------------------------+------------------------------------------------+
+| Document Name              | Recognized Utility / Classification            |
++----------------------------+------------------------------------------------+
+| Aadhaar Card / e-Aadhaar   | Valid for POI and POA (with first 8 digits     |
+|                            | masked on physical copies per privacy rules)   |
+| Permanent Account Number   | Valid for POI only. Mandatory for all cash     |
+| (PAN) Card / e-PAN         | transactions > INR 50,000 & high-value deposits|
+| Passport (Machine Readable)| Valid for POI and POA (Must be currently valid)|
+| Voter Identity Card (EPIC) | Valid for POI and POA (Issued by Election Comm)|
+| Driving Licence (Smartcard)| Valid for POI and POA (Must not be expired)    |
+| NREGA Job Card             | Valid for POI and POA (Duly signed by Officer) |
++----------------------------+------------------------------------------------+
+
+Deemed Proofs of Address (for temporary address, valid for max 90 days until OVD 
+address update): Utility bills (electricity/piped gas/water bill not older than 
+60 days), property tax receipt, or municipal tax voucher.
+
+--------------------------------------------------------------------------------
+3. VIDEO-BASED CUSTOMER IDENTIFICATION PROCESS (V-CIP / VIDEO KYC)
+--------------------------------------------------------------------------------
+MNB offers end-to-end digital onboarding via Video KYC under rigorous security 
+parameters:
+1. Geolocation Verification: Real-time Geo-tagging confirms applicant is physically 
+   situated within the territorial borders of India during call execution.
+2. Live Interaction: Live bi-directional audio-visual interaction between certified 
+   MNB bank official and applicant.
+3. Facial Matching & Liveness: AI-driven facial recognition algorithms compare 
+   applicant's live face against the photograph on Aadhaar/PAN with minimum 95% 
+   confidence score. Liveness detection detects spoofing and recorded videos.
+4. Document Capture: Clear high-resolution live capture of physical PAN card and 
+   wet-ink signature on plain white paper.
+
+--------------------------------------------------------------------------------
+4. PERIODIC KYC UPDATION (RE-KYC) SCHEDULE
+--------------------------------------------------------------------------------
+Every customer account is classified into a risk tier upon opening, dictating the 
+statutory frequency of mandatory KYC refresh:
+
++------------------+-----------------------+----------------------------------+
+| Risk Tier        | Customer Profile      | Mandatory Re-KYC Frequency       |
++------------------+-----------------------+----------------------------------+
+| High Risk        | PEPs, Non-Residents,  | Once every 2 Years               |
+|                  | High-net bullion/cash |                                  |
+| Medium Risk      | Salaried/SME traders  | Once every 8 Years               |
+| Low Risk         | Standard retail CASA, | Once every 10 Years              |
+|                  | Pensioners, Students  |                                  |
++------------------+-----------------------+----------------------------------+
+
+Low-risk individuals with no change of address may complete Re-KYC via self-declaration 
+submitted through internet banking, mobile app, or ATM touchpoints.
+
+--------------------------------------------------------------------------------
+5. CONSEQUENCES OF NON-COMPLIANCE & ACCOUNT FREEZING
+--------------------------------------------------------------------------------
+Where a customer fails to furnish updated KYC documents after receipt of 3 sequential 
+notices (served at 30-day intervals):
+1. Day 90: Partial Freezing imposed (Credits permitted, debits completely blocked).
+2. Day 180: Total Freezing imposed (Both debits and credits completely blocked).
+3. Day 360: Account closure proceedings initiated, funds segregated to suspense ledger.
+
+--------------------------------------------------------------------------------
+6. POLICY EXCEPTIONS
+--------------------------------------------------------------------------------
+- Small Accounts: Individuals lacking OVD may open a "Small Account" with self-attested 
+  photograph, subject to aggregate credits <= INR 100,000/year, maximum balance 
+  <= INR 50,000, and 12-month window to procure standard OVD.

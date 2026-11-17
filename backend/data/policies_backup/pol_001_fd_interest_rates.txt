@@ -1,0 +1,91 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — POLICY CIRCULAR
+DOCUMENT CLASSIFICATION: INTERNAL REGULATORY COMPLIANCE
+[SYNTHETIC TEST DATA — FOR TESTING AND DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+DOCUMENT ID: MNB-POL-001
+TITLE: Fixed Deposit Interest Rate Schedule — v1.0
+VERSION: 1.0 (STATUS: SUPERSEDED by MNB-POL-012 as of 2024-09-01)
+EFFECTIVE DATE: 2023-01-01
+EXPIRY / SUPERSEDED DATE: 2024-08-31
+APPROVAL STATUS: Approved by Asset-Liability Management Committee (ALCO)
+DEPARTMENT: Retail Liabilities & Deposit Mobilization Group
+TARGET AUDIENCE: Branch Operations, Customer Relationship Managers, Audit Teams
+
+--------------------------------------------------------------------------------
+1. PURPOSE AND APPLICABILITY
+--------------------------------------------------------------------------------
+This circular sets forth the interest rate schedule and guidelines governing Term 
+and Fixed Deposits (FD) accepted by Meridian National Bank (MNB) from individual 
+retail customers, sole proprietorships, trusts, and Hindu Undivided Families (HUF).
+All branch managers and treasury desks must strictly observe the contracted card 
+rates detailed herein for deposits booked between January 1, 2023, and August 31, 2024.
+
+IMPORTANT NOTICE: This policy document is SUPERSEDED by MNB-POL-012 effective 
+September 1, 2024. It is retained solely for historical audit trails, tax assessments, 
+and legacy deposit renewals contracted during calendar years 2023 and early 2024.
+
+--------------------------------------------------------------------------------
+2. FIXED DEPOSIT INTEREST RATE SCHEDULE (RETAIL DEPOSITS < INR 20,000,000)
+--------------------------------------------------------------------------------
+The table below specifies annual annualized yields and nominal rates compounded 
+quarterly across standard tenure buckets.
+
++------------------------+----------------------+-----------------------------+
+| Tenure Bucket          | Standard Rate (% p.a)| Senior Citizen Rate (% p.a) |
++------------------------+----------------------+-----------------------------+
+| 7 days to 14 days      | 3.50%                | 4.00%                       |
+| 15 days to 45 days     | 3.75%                | 4.25%                       |
+| 46 days to 90 days     | 4.50%                | 5.00%                       |
+| 91 days to 180 days    | 5.25%                | 5.75%                       |
+| 181 days to 364 days   | 6.00%                | 6.50%                       |
+| 1 year to < 2 years    | 6.50%                | 7.00%                       |
+| 2 years to < 3 years   | 6.75%                | 7.25%                       |
+| 3 years to < 5 years   | 6.50%                | 7.00%                       |
+| 5 years to 10 years    | 6.25%                | 6.75%                       |
++------------------------+----------------------+-----------------------------+
+
+Minimum initial deposit threshold: INR 10,000 for standard retail branches and 
+INR 5,000 for designated rural/financial inclusion branches. Maximum single 
+retail deposit under this schedule is INR 19,999,999. Deposits of INR 20,000,000 
+and above constitute bulk deposits subject to custom treasury quotations.
+
+--------------------------------------------------------------------------------
+3. SENIOR CITIZEN PREFERENTIAL RATE BENEFITS
+--------------------------------------------------------------------------------
+Resident Indian individuals aged 60 years and above at the time of deposit booking 
+are entitled to an additional preferential premium of +0.50% (50 basis points) 
+over the standard board rate across all tenure buckets ranging from 7 days to 10 years.
+Proof of age (Aadhaar, Passport, or PAN card) must be authenticated in the core 
+banking system prior to rate credit execution.
+
+--------------------------------------------------------------------------------
+4. PREMATURE WITHDRAWAL PENALTY MATRIX
+--------------------------------------------------------------------------------
+In the event a depositor requests premature liquidation of a fixed deposit prior 
+to maturity, interest will be recalculated at the card rate prevailing on the date 
+of booking for the actual period completed, less the applicable penal rate:
+
++----------------------------+-----------------------+------------------------+
+| Completed Tenure at Exit   | Penal Deduction Rate  | Final Interest Payable |
++----------------------------+-----------------------+------------------------+
+| Less than 7 days           | 100% of interest      | 0.00% (No interest)    |
+| 7 days up to 180 days      | 1.00% per annum       | Applicable rate - 1.0% |
+| 181 days up to 10 years    | 0.50% per annum       | Applicable rate - 0.5% |
++----------------------------+-----------------------+------------------------+
+
+Example: If a depositor contracts a 2-year deposit at 6.75% but closes it after 
+120 days (where the 91-180 days rate was 5.25%), the payable rate is 5.25% - 1.00% = 4.25%.
+
+--------------------------------------------------------------------------------
+5. POLICY EXCEPTIONS AND SPECIAL DISPENSATIONS
+--------------------------------------------------------------------------------
+1. Staff Deposits: Confirmed employees and retired staff of Meridian National Bank 
+   are eligible for an additional 1.00% p.a. over the standard retail rate.
+2. Death of Primary Account Holder: In the unfortunate demise of the sole or primary 
+   holder, premature closure claims submitted by registered nominees or legal heirs 
+   shall be exempt from all penal interest deductions.
+3. Tax Saver FDs: 5-year tax-saving fixed deposits booked under Section 80C carry 
+   a statutory lock-in period of 5 years; premature encashment and lien marking 
+   are strictly prohibited by law.

@@ -1,0 +1,42 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — OFFICIAL POLICY MANUAL
+POLICY CODE: MNB-POL-001 | CATEGORY: RETAIL SECURED LENDING
+TITLE: GOLD JEWELLERY PLEDGE LOAN POLICY & VALUATION GUIDELINES
+VERSION: 2.0 | EFFECTIVE DATE: 2024-01-01 | CLASSIFICATION: PUBLIC
+================================================================================
+
+[PAGE 1 OF 2: GOLD LOAN INTEREST RATES & MARGIN REQUIREMENTS]
+
+1. POLICY OVERVIEW & APPLICABILITY
+Meridian National Bank extends gold-backed retail credit facilities to individual borrowers against the security pledge of gold jewellery, ornaments, and specially minted bank-certified gold coins.
+
+2. INTEREST RATE STRUCTURE
+The applicable annual percentage rates (APR) for Meridian Gold Loans are scheduled as follows:
+- Standard Tenure (Up to 12 months): 8.50% per annum (fixed interest rate).
+- Extended Tenure (12 months to 24 months): 9.25% per annum (fixed interest rate).
+- Agricultural / Allied Priority Gold Loans: 7.00% per annum concession rate for verifiable crop-cycle farming purposes.
+
+3. LOAN-TO-VALUE (LTV) & MARGIN REQUIREMENTS
+- Maximum Loan-to-Value (LTV) Ratio: 75.00% of the net appraised intrinsic market value of pledged gold assets, in accordance with Reserve Bank regulatory ceilings.
+- Haircut / Margin Requirement: A mandatory 25.00% equity margin is maintained at all times to hedge against international bullion market volatility.
+- Valuation Benchmark: Calculated based on the average 30-day closing rate of 22-karat gold published by the India Bullion and Jewellers Association (IBJA).
+- Loan Quantum: Minimum sanction amount is ₹25,000; Maximum sanction amount is ₹50,00,000 per individual borrower.
+- Repayment Models: Monthly interest with end-of-term principal liquidation, or Bullet Repayment (principal + accrued interest repaid together at maturity) for tenures up to 12 months.
+
+================================================================================
+[PAGE 2 OF 2: GOLD PURITY APPRAISAL & SECURITY VAULT STORAGE]
+
+4. ACCEPTABLE GOLD COLLATERAL & PURITY STANDARDS
+- Permitted Ornaments: Hallmarked gold jewellery of 22-karat (916 purity) and 24-karat (999 purity) are accepted. Ornaments of 18-karat purity may be pledged subject to a conservative 65% LTV limit.
+- Non-Acceptable Assets: Gold bullion bars, raw nuggets, gold-plated imitation jewellery, and gold dust/meltings are strictly ineligible for pledge.
+- Minimum Pledged Weight: Net weight of gold (excluding precious stones, lac, wax, and metal alloy fittings) must be at least 10 grams.
+
+5. APPRAISAL AND VALUATION PROCEDURE
+- Certified In-House Assayer: Every ornament undergoes immediate on-site electronic karatometer testing, touchstone assaying, and nitric acid streak verification by bank-certified appraisers.
+- Stone Weight Deduction: Gross weight and exact deducted net weight are recorded on a physical Appraiser Certificate counter-signed by the applicant.
+
+6. VAULT STORAGE & SAFEKEEPING PROTOCOLS
+- Dual-Custody Storage: Pledged jewellery packets are sealed with tamper-evident serial-numbered security seals in the customer's presence and stored inside high-grade Class-AA security vaults.
+- Joint Custodianship: Access requires simultaneous biometric dual-key authentication by the Branch Operations Manager and Head Cashier.
+- Comprehensive Insurance: 100% of pledged gold value is fully insured by Meridian National Bank against fire, burglary, armed theft, and natural perils at no additional insurance premium cost to the borrower.
+- Redemption: Instant release of pledged ornaments upon full loan closure, accompanied by physical weight verification and seal inspection.

@@ -1,0 +1,43 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — OFFICIAL POLICY MANUAL
+POLICY CODE: MNB-POL-002 | CATEGORY: RETAIL TERM DEPOSITS
+TITLE: FIXED DEPOSIT (FD) INTEREST RATES & TENURE TERMS
+VERSION: 2.0 | EFFECTIVE DATE: 2024-01-01 | CLASSIFICATION: PUBLIC
+================================================================================
+
+[PAGE 1 OF 2: TERM DEPOSIT INTEREST RATE SCHEDULE]
+
+1. POLICY OVERVIEW & DEPOSIT SCOPE
+Meridian National Bank offers Retail Fixed Term Deposits (Domestic / NRO / NRE) designed to deliver assured capital returns with compounded or periodic quarterly payout options.
+
+2. INTEREST RATE SCHEDULE FOR GENERAL & SENIOR CITIZENS
+The annual interest rates on single deposits below ₹2,00,00,000 (Rupees Two Crores) are structured by tenure brackets:
+- Short Term (7 days to 90 days): 4.50% p.a. for General Citizens | 5.00% p.a. for Senior Citizens.
+- Medium Term (91 days to 364 days): 6.00% p.a. for General Citizens | 6.50% p.a. for Senior Citizens.
+- 1 Year to Less than 2 Years: 7.10% per annum for General Citizens | 7.60% per annum for Senior Citizens (+0.50% premium).
+- 2 Years to Less than 3 Years: 7.00% per annum for General Citizens | 7.50% per annum for Senior Citizens (+0.50% premium).
+- Long Term (3 Years to 5 Years): 6.80% per annum for General Citizens | 7.30% per annum for Senior Citizens (+0.50% premium).
+- Tax Saver FD (5-Year Lock-in under Section 80C): 6.75% per annum for General Citizens | 7.25% per annum for Senior Citizens.
+
+3. SPECIAL SENIOR CITIZEN PRIVILEGES
+- Resident Senior Citizens (individuals who have completed 60 years of age on the booking date) receive a mandatory additional interest premium of 0.50% per annum across all tenures.
+- Super Senior Citizens (aged 80 years and above) receive an enhanced premium of 0.75% per annum on tenures exceeding 2 years.
+- Minimum Deposit Amount: ₹10,000 for standard retail term deposits; ₹1,000 for digital e-FDs opened via Meridian NetBanking.
+
+================================================================================
+[PAGE 2 OF 2: PREMATURE WITHDRAWAL & PENALTY TERMS]
+
+4. PREMATURE WITHDRAWAL POLICY
+Fixed deposits may be prematurely closed or partially liquidated prior to maturity at the depositor's request, subject to standard early-closure conditions.
+- Minimum Holding Period: Deposits closed before 7 days from the booking date will earn 0.00% interest (principal returned in full).
+- Interest Calculation on Early Closure: Interest will be calculated at the rate applicable for the period during which the deposit remained with the bank, not at the contractual contracted rate.
+
+5. PREMATURE WITHDRAWAL PENALTY CLAUSES
+- For Deposits below ₹5,00,000 closed prematurely after 7 days: An interest penalty deduction of 0.50% is deducted from the applicable holding tenure rate.
+- For Deposits between ₹5,00,000 and ₹2,00,00,000 closed prematurely: An interest penalty deduction of 1.00% is deducted from the applicable holding tenure rate.
+- Exemption from Penalty: No premature withdrawal penalty is levied if the proceeds are immediately reinvested into another Meridian Fixed Deposit of equal or greater tenure.
+- Tax Saver Term Deposits: Fixed deposits booked under the 5-Year Tax Saver scheme carry a statutory lock-in period of 5 years and cannot be prematurely withdrawn under any circumstances.
+
+6. AUTO-RENEWAL & MATURITY INSTRUCTIONS
+- Auto-Renewal Mandate: In the absence of contrary written instructions, deposits are automatically renewed on maturity for the same tenure at the prevailing card rate.
+- Nomination: Mandatory nomination registration for single-holder retail term deposits.

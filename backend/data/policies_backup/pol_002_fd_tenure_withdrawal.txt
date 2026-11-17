@@ -1,0 +1,99 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — POLICY CIRCULAR
+DOCUMENT CLASSIFICATION: INTERNAL OPERATIONAL GUIDELINES
+[SYNTHETIC TEST DATA — FOR TESTING AND DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+DOCUMENT ID: MNB-POL-002
+TITLE: Fixed Deposit Tenure and Premature Withdrawal Policy
+VERSION: 2.1
+EFFECTIVE DATE: 2024-04-01
+APPROVAL STATUS: Approved by Retail Banking Operations Directorate
+DEPARTMENT: Retail Liabilities & Branch Operations
+TARGET AUDIENCE: All Branch Operations Staff, Branch Managers, Customer Care
+
+--------------------------------------------------------------------------------
+1. PURPOSE AND POLICY SCOPE
+--------------------------------------------------------------------------------
+This document establishes comprehensive operational rules governing minimum and 
+maximum allowable tenures, premature liquidation parameters, partial withdrawal 
+options, lock-in rules, and auto-renewal mechanisms for all domestic Fixed 
+Deposits (FDs) contracted at Meridian National Bank (MNB).
+
+--------------------------------------------------------------------------------
+2. TENURE PARAMETERS AND LIMITS
+--------------------------------------------------------------------------------
+Meridian National Bank accepts fixed term deposits under the following strict 
+tenure boundaries:
+
++-----------------------------+----------------------+------------------------+
+| Deposit Classification      | Minimum Tenure       | Maximum Tenure         |
++-----------------------------+----------------------+------------------------+
+| Standard Term Deposit       | 7 Days               | 10 Years (120 Months)  |
+| Tax-Saving Deposit (80C)    | 5 Years (60 Months)  | 5 Years (60 Months)    |
+| Flexi-Sweep Fixed Deposit   | 15 Days              | 1 Year (12 Months)     |
+| Recurring Deposit (RD)      | 6 Months             | 10 Years (120 Months)  |
++-----------------------------+----------------------+------------------------+
+
+Deposits under 7 days in duration are legally impermissible for term deposit 
+classification under reserve guidelines and shall be declined by core banking.
+
+--------------------------------------------------------------------------------
+3. PREMATURE WITHDRAWAL & PENALTY MATRIX
+--------------------------------------------------------------------------------
+Depositors may request liquidation of Fixed Deposits prior to contracted maturity 
+dates subject to the following regulatory framework:
+
+1. Sub-7 Day Liquidations: No interest whatever is payable on deposits liquidated 
+   within 6 days from date of booking. Principal is refunded in full without fee.
+2. Premature Liquidation Rate Formula: The interest rate applicable shall be the 
+   lesser of:
+   (a) The contracted rate of the original deposit, or
+   (b) The rate prevailing on the booking date for the tenure during which the 
+       deposit actually remained with the bank, minus applicable penal haircut.
+
++--------------------------+--------------------+-----------------------------+
+| Deposit Amount Bracket   | Completed Duration | Premature Penalty Deduction |
++--------------------------+--------------------+-----------------------------+
+| Less than INR 500,000    | 7 to 180 days      | 0.50% reduction in yield    |
+| Less than INR 500,000    | > 180 days         | 0.50% reduction in yield    |
+| INR 500,000 to 20,000,000| 7 to 365 days      | 1.00% reduction in yield    |
+| INR 500,000 to 20,000,000| > 1 year           | 0.75% reduction in yield    |
++--------------------------+--------------------+-----------------------------+
+
+--------------------------------------------------------------------------------
+4. PARTIAL WITHDRAWAL RULES
+--------------------------------------------------------------------------------
+MNB offers partial withdrawal facilities on standard fixed deposits exceeding 
+INR 50,000 in total value:
+- Increments: Partial encashment must be made in multiples of INR 5,000.
+- Residual Balance: The remaining principal balance after withdrawal must not fall 
+  below the mandatory minimum threshold of INR 10,000.
+- Interest Mechanics: The withdrawn portion incurs premature penalty rules as 
+  stipulated in Section 3, while the retained principal continues to earn original 
+  contracted interest until original maturity.
+
+--------------------------------------------------------------------------------
+5. STATUTORY LOCK-IN PERIODS
+--------------------------------------------------------------------------------
+1. Tax Saver Scheme (Section 80C): Lock-in duration is exactly 60 calendar months. 
+   No premature redemption, loan lien, or overdraft facility is allowed.
+2. Court Attachment & Legal Liens: Where a deposit is frozen under statutory order 
+   or loan collateral lien, withdrawal is strictly blocked until formal release.
+
+--------------------------------------------------------------------------------
+6. AUTO-RENEWAL AND MATURITY INSTRUCTIONS
+--------------------------------------------------------------------------------
+Depositors select maturity mandates at account opening:
+- Auto-Renewal (Principal + Interest): Full maturity proceeds roll into a new deposit 
+  of equal tenure at prevailing board rates on renewal date.
+- Auto-Renewal (Principal Only): Interest is credited to linked savings/current account.
+- Payout at Maturity: Funds are auto-transferred to linked CASA via NEFT/RTGS.
+Grace Period: A 14-calendar-day grace period is provided post-maturity during which 
+customers can close or restructure renewed deposits without premature penalty.
+
+--------------------------------------------------------------------------------
+7. EXCEPTIONS
+--------------------------------------------------------------------------------
+- Senior Citizens: Penalty for premature withdrawal is waived by 0.25% (e.g. 1.0% becomes 0.75%).
+- Demise of Account Holder: Complete penalty waiver for nominee liquidation.

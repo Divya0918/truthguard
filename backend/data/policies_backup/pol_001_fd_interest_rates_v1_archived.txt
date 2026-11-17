@@ -1,0 +1,71 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB)
+DOCUMENT: POL-001 | Fixed Deposit Interest Rate Schedule
+VERSION: 1.0 (SUPERSEDED — See POL-012 for current rates)
+STATUS: ARCHIVED | EFFECTIVE: 2023-01-01 TO 2023-12-31
+CLASSIFICATION: PUBLIC | SYNTHETIC DEMO DATA ONLY
+================================================================================
+
+SECTION 1: PURPOSE AND SCOPE
+This document sets out the interest rate schedule for Fixed Deposit (FD) accounts
+offered by Meridian National Bank as of January 1, 2023. These rates apply to all
+retail and senior citizen customers. This version (v1.0) has been superseded by
+POL-012 (v2.0, effective 2024-01-01). Customers should refer to POL-012 for
+current applicable rates.
+
+SECTION 2: STANDARD INTEREST RATE SCHEDULE (2023 — ARCHIVED)
+
+Tenure              General Rate (% p.a.)   Senior Citizen Rate (% p.a.)
+-----------         ---------------------   ----------------------------
+7 – 14 days         3.50%                   4.00%
+15 – 30 days        4.00%                   4.50%
+31 – 45 days        4.25%                   4.75%
+46 – 60 days        4.50%                   5.00%
+61 – 90 days        4.75%                   5.25%
+91 – 120 days       5.00%                   5.50%
+121 – 180 days      5.25%                   5.75%
+181 – 270 days      5.50%                   6.00%
+271 days – 1 year   5.75%                   6.25%
+1 year – 2 years    6.25%                   6.75%
+2 years – 3 years   6.50%                   7.00%
+3 years – 5 years   6.75%                   7.25%
+5 years – 10 years  7.00%                   7.50%
+
+SECTION 3: SENIOR CITIZEN BENEFIT
+Senior citizens (age 60 years and above) receive an additional 0.50% per annum
+above the general rate for all FD tenures. A standard senior citizen benefit
+of 0.50% p.a. applies uniformly across all tenures.
+
+SECTION 4: SPECIAL FD CATEGORIES (2023)
+4.1 Tax Saver FD: 5-year lock-in period, rate 7.00% p.a. (general), 7.50% (senior).
+    Eligible for deduction under Section 80C of the Income Tax Act.
+4.2 Flexi FD: Linked to savings account; auto-renewal at prevailing rate.
+    Rate: As per applicable tenure rate at time of renewal.
+
+SECTION 5: PREMATURE WITHDRAWAL PENALTY MATRIX (2023)
+
+Tenure Held         Penalty (% deducted from applicable rate)
+----------------    ------------------------------------------
+Less than 3 months  No interest paid; principal returned
+3 – 6 months        Applicable rate minus 1.00%
+6 – 12 months       Applicable rate minus 0.75%
+More than 12 months Applicable rate minus 0.50%
+
+NOTE: Tax Saver FDs (5-year) cannot be prematurely withdrawn.
+
+SECTION 6: COMPOUND INTEREST CALCULATION
+Interest is compounded quarterly for FDs with tenure above 12 months.
+For tenures up to 12 months, simple interest is applied.
+Interest may be credited monthly, quarterly, or at maturity as per customer choice.
+
+SECTION 7: IMPORTANT NOTICES
+- This rate schedule was effective from January 1, 2023.
+- Rates were revised effective January 1, 2024 (see POL-012).
+- All interest rates are subject to change at the discretion of MNB's Board.
+- TDS (Tax Deducted at Source) at applicable rates is deducted on FD interest.
+
+ARCHIVAL NOTE: This document is maintained for reference purposes only.
+Current FD rates: See POL-012 (Effective 2024-01-01).
+
+Document Ref: MNB/POL/001/2023 | Approved by: Chief Treasury Officer
+================================================================================

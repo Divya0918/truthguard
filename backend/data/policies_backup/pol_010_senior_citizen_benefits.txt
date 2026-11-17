@@ -1,0 +1,82 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — SPECIAL CUSTOMER SEGMENT POLICY
+DOCUMENT CLASSIFICATION: CONSUMER WELFARE & INCLUSIVE BANKING CHARTER
+[SYNTHETIC TEST DATA — FOR TESTING AND DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+DOCUMENT ID: MNB-POL-010
+TITLE: Senior Citizen Banking Benefits Policy
+VERSION: 2.0
+EFFECTIVE DATE: 2024-04-01
+APPROVAL STATUS: Approved by Customer Service Committee of the Board
+DEPARTMENT: Retail Banking & Inclusive Financial Services Division
+TARGET AUDIENCE: Branch Managers, Customer Care Associates, Frontline Banking Staff
+
+--------------------------------------------------------------------------------
+1. PURPOSE & OBJECTIVE
+--------------------------------------------------------------------------------
+Meridian National Bank (MNB) is committed to providing preferential, dignified, 
+and accessible financial services to elder citizens. This policy consolidates the 
+special interest benefits, priority service channels, door-step amenities, and 
+compliance relaxations reserved for senior customers.
+
+--------------------------------------------------------------------------------
+2. ELIGIBILITY THRESHOLD
+--------------------------------------------------------------------------------
+Any individual resident customer who has attained 60 completed years of age 
+(or 55 years in the case of individuals who have taken voluntary retirement / superannuation 
+under approved defense or public service schemes) is classified as a Senior Citizen. 
+Super-Senior Citizen status is conferred upon reaching 80 completed years of age.
+
+--------------------------------------------------------------------------------
+3. FINANCIAL BENEFITS & INTEREST RATE CONCESSIONS
+--------------------------------------------------------------------------------
+Senior citizens enjoy enhanced yields and reduced fee schedules across core services:
+
++----------------------------+-----------------------+------------------------+
+| Service / Product          | Standard Customer     | Senior Citizen Benefit |
++----------------------------+-----------------------+------------------------+
+| Fixed Deposits (All Tenors)| Standard Card Rate    | Card Rate + 0.50% p.a. |
+| Super Senior FD (>5 Yrs)   | Standard Card Rate    | Card Rate + 0.75% p.a. |
+| Savings Account AMB Waiver | Standard AMB applies  | 50% reduced AMB rule   |
+| Premature FD Liquidation   | 1.00% or 0.50% penalty| 0.25% penalty waiver   |
+| Demand Drafts (DD)         | Standard Fee          | 50% discount on charges|
+| Physical Account Statement | INR 100 per request   | Free quarterly branch  |
+| Locker Rental Discount     | Standard Rental       | 10% annual concession  |
++----------------------------+-----------------------+------------------------+
+
+--------------------------------------------------------------------------------
+4. DOORSTEP BANKING SERVICES (DSB)
+--------------------------------------------------------------------------------
+Senior citizens aged 70 years and above, as well as differently-abled elder citizens, 
+can access Doorstep Banking Services up to 3 times per calendar month free of fee:
+- Cash pickup and delivery up to INR 25,000 per day.
+- Pick up of cheques, demand drafts, and life certificates (Jeevan Pramaan).
+- Delivery of demand drafts, account statements, and cheque books.
+- Submission of Form 15G / 15H for tax deduction exemption.
+
+Bookings can be initiated through the MNB Mobile App, dedicated toll-free helpline, 
+or local branch appointment desk.
+
+--------------------------------------------------------------------------------
+5. DEDICATED ASSISTANCE & PRIORITY BRANCH BANKING
+--------------------------------------------------------------------------------
+1. Dedicated Toll-Free Priority Helpline: 1800-555-MNB-SR (Available 24x7 with 
+   zero IVR queue wait times, routing directly to senior human agents).
+2. Priority Service Counters: All tier-1 and tier-2 MNB branches must maintain a 
+   dedicated "Elder Care Desk" equipped with comfortable ergonomic seating.
+3. Relaxed Re-KYC: In-person branch visits are not mandatory. Senior citizens may 
+   complete periodic KYC via video link or authorized agent doorstep visits.
+
+--------------------------------------------------------------------------------
+6. PENSION ACCOUNT PRIVILEGES
+--------------------------------------------------------------------------------
+Holders of central/state government pension accounts with MNB enjoy zero minimum 
+balance requirements, unlimited free ATM withdrawals across all domestic bank ATMs, 
+and automated annual submission of Digital Life Certificates.
+
+--------------------------------------------------------------------------------
+7. EXCEPTIONS & RESTRICTIONS
+--------------------------------------------------------------------------------
+- Preferential FD interest rate (+0.50%) is not applicable to non-individual accounts, 
+  corporate accounts, or NRE / FCNR foreign currency deposit accounts.

@@ -1,0 +1,44 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — OFFICIAL POLICY MANUAL
+POLICY CODE: MNB-POL-003 | CATEGORY: RETAIL SAVINGS ACCOUNTS
+TITLE: PERSONAL SAVINGS ACCOUNT ELIGIBILITY & OPENING RULES
+VERSION: 2.0 | EFFECTIVE DATE: 2024-01-01 | CLASSIFICATION: PUBLIC
+================================================================================
+
+[PAGE 1 OF 2: APPLICANT ELIGIBILITY & KYC MANDATES]
+
+1. ACCOUNT PURPOSE & TARGET AUDIENCE
+Meridian Personal Savings Accounts are designed for resident individuals, households, and professionals seeking secure liquid fund storage with electronic payment access.
+
+2. ELIGIBILITY CRITERIA FOR OPENING AN ACCOUNT
+To open a personal savings account at Meridian National Bank, applicants must meet the following eligibility conditions:
+- Age Qualification: Any resident individual who is 18 years of age or older and competent to contract is eligible to open a standard single or joint personal savings account.
+- Minor Accounts: Minors aged 10 years and older may operate an independent minor savings account with daily withdrawal caps of ₹2,500; minors under 10 years must be operated jointly with natural or legal court-appointed guardians.
+- Residential Status: Resident Indian individuals. Non-Resident Indians (NRIs) and Persons of Indian Origin (PIOs) must apply under the dedicated NRE/NRO policy guidelines.
+
+3. MANDATORY KYC DOCUMENTATION CHECKLIST
+Applicants must furnish one document from each category under RBI Customer Due Diligence regulations:
+- Identity & Address Proof (Officially Valid Document - OVD): Valid Passport, Aadhaar Card with masked UID, Voter Identity Card, or Driving Licence.
+- Tax Identification: Permanent Account Number (PAN) Card or Form 60 declaration where PAN has not yet been assigned.
+- Recent Photograph: One passport-size color photograph (or live digital webcam capture during Video-KYC).
+- Video-KYC (V-KYC) Option: Fully digital instant account opening available through the Meridian Mobile App 24/7 with zero physical branch visits required.
+
+================================================================================
+[PAGE 2 OF 2: MINIMUM BALANCE & CHEQUE BOOK PRIVILEGES]
+
+4. AVERAGE MONTHLY BALANCE (AMB) REQUIREMENTS
+Meridian Bank calculates Average Monthly Balance based on the cumulative end-of-day ledger balance divided by the number of calendar days in the month:
+- Metro & Urban Branches: Mandatory Average Monthly Balance of ₹2,500.
+- Semi-Urban & Rural Branches: Mandatory Average Monthly Balance of ₹1,000.
+- Basic Savings Bank Deposit Account (BSBDA / Zero Balance): Nil minimum balance requirement with basic transaction caps.
+
+5. NON-MAINTENANCE CHARGES (NMC)
+If the Average Monthly Balance is not maintained, quarterly notification is dispatched prior to debiting non-maintenance charges:
+- Metro/Urban Shortfall: ₹150 + 18% GST per month for shortfalls up to 50%; ₹250 + GST per month for shortfalls exceeding 50%.
+- Semi-Urban/Rural Shortfall: ₹75 + GST per month for shortfalls up to 50%; ₹125 + GST per month for shortfalls exceeding 50%.
+
+6. ACCOUNT PRIVILEGES & INCLUDED COMPLIMENTARY BENEFITS
+- Meridian Contactless Debit Card: Issued with EMV chip protection and complimentary domestic airport lounge access (1 visit per quarter).
+- Cheque Book Facilities: One complimentary 25-leaf personalised cheque book per financial year. Additional leaves charged at ₹3 per cheque leaf.
+- Digital Banking: Free lifetime access to Meridian Internet Banking, Mobile Banking, UPI payments, and NEFT/RTGS online transfers.
+- Interest Payment: Savings account interest of 3.50% p.a. calculated daily and credited quarterly directly into the account.

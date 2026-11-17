@@ -1,0 +1,105 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — POLICY CIRCULAR
+DOCUMENT CLASSIFICATION: RETAIL BANKING LIABILITIES MANUAL
+[SYNTHETIC TEST DATA — FOR TESTING AND DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+DOCUMENT ID: MNB-POL-005
+TITLE: Savings Account Opening Policy
+VERSION: 4.2
+EFFECTIVE DATE: 2024-03-01
+APPROVAL STATUS: Approved by Executive Operations Committee & Compliance Bureau
+DEPARTMENT: Retail Deposit Products & Branch Network Operations
+TARGET AUDIENCE: Branch Relationship Managers, Welcome Desks, Central KYC Unit
+
+--------------------------------------------------------------------------------
+1. PURPOSE AND APPLICABILITY
+--------------------------------------------------------------------------------
+This policy governs the onboarding, eligibility criteria, minimum maintenance 
+balances, pricing tiers, interest computation formulas, and daily transaction 
+ceilings for retail Savings Bank (SB) accounts offered across Meridian National 
+Bank's branch and digital banking networks.
+
+--------------------------------------------------------------------------------
+2. ELIGIBILITY CRITERIA FOR ACCOUNT OPENING
+--------------------------------------------------------------------------------
+Savings accounts may be opened by:
+1. Individual Resident Indians (single or joint accounts up to 4 holders).
+2. Minors aged 10 years and above under self-operation (Meridian Junior Account).
+3. Minors below 10 years operated through natural or court-appointed guardians.
+4. Non-Resident Indians (under NRE / NRO variants governed by FEMA).
+5. Registered Charitable Trusts, Clubs, and Societies (governed by special bye-laws).
+
+Commercial entities, partnerships, and proprietary concerns are legally barred 
+from opening savings accounts and must open current accounts.
+
+--------------------------------------------------------------------------------
+3. SAVINGS ACCOUNT VARIANTS AND MINIMUM BALANCE REQUIREMENTS
+--------------------------------------------------------------------------------
+Meridian National Bank offers four specialized account variants tailored to 
+distinct customer demographics:
+
++----------------------------+-----------------------+------------------------+
+| Account Variant            | Average Monthly (AMB) | Non-Maintenance Fee    |
++----------------------------+-----------------------+------------------------+
+| Basic Savings (BSBDA)      | INR 0 (Zero-Balance)  | Nil (No penalty)       |
+| Classic Retail Savings     | INR 5,000 (Metro/Urb) | INR 250 + GST / month  |
+|                            | INR 2,500 (Semi-Urb)  | INR 150 + GST / month  |
+|                            | INR 1,000 (Rural)     | INR 75 + GST / month   |
+| Meridian Privilege Premium | INR 25,000            | INR 500 + GST / month  |
+| Meridian Infinite Elite    | INR 100,000           | INR 1,000 + GST / month|
++----------------------------+-----------------------+------------------------+
+
+Calculation of AMB: Sum of daily end-of-day balances divided by total calendar 
+days in the billing month.
+
+--------------------------------------------------------------------------------
+4. SAVINGS INTEREST RATE SCHEDULE
+--------------------------------------------------------------------------------
+Interest on domestic savings accounts is calculated on a daily closing balance 
+basis and credited to accounts on the final calendar day of each quarter 
+(March, June, September, December):
+
++-------------------------------------+---------------------------------------+
+| Daily Closing Balance Slab          | Annual Interest Rate (% p.a.)         |
++-------------------------------------+---------------------------------------+
+| Up to INR 100,000                   | 3.00% per annum                       |
+| Above INR 100,000 up to INR 500,000 | 3.50% per annum                       |
+| Above INR 500,000 up to INR 5,000k  | 4.00% per annum                       |
+| Above INR 5,000,000 (High-Net)      | 4.50% per annum                       |
++-------------------------------------+---------------------------------------+
+
+--------------------------------------------------------------------------------
+5. TRANSACTION AND ATM WITHDRAWAL LIMITS
+--------------------------------------------------------------------------------
+Daily debit card spending and cash disbursement thresholds:
+
++------------------------+----------------------+-----------------------------+
+| Account Variant        | Daily ATM Cash Limit | Daily POS / E-Commerce Limit|
++------------------------+----------------------+-----------------------------+
+| Basic Savings (BSBDA)  | INR 10,000           | INR 10,000                  |
+| Classic Retail Savings | INR 40,000           | INR 100,000                 |
+| Meridian Privilege     | INR 100,000          | INR 250,000                 |
+| Meridian Infinite Elite| INR 250,000          | INR 500,000                 |
++------------------------+----------------------+-----------------------------+
+
+Free ATM Transactions: 5 free transactions per month at MNB ATMs, and 3 free 
+transactions at other bank ATMs in metro cities (5 in non-metro locations). 
+Subsequent financial transactions are billed at INR 21.00 + GST.
+
+--------------------------------------------------------------------------------
+6. REQUIRED DOCUMENTATION
+--------------------------------------------------------------------------------
+1. Officially Valid Documents (OVD) for Identity and Address:
+   - Aadhaar number (with physical biometric verification or OTP e-KYC).
+   - Permanent Account Number (PAN) or Form 60 declaration.
+   - Passport, Voter ID Card, or Driving Licence.
+2. Two passport-sized photographs.
+3. Specimen signature recorded on biometric pad.
+
+--------------------------------------------------------------------------------
+7. POLICY EXCEPTIONS
+--------------------------------------------------------------------------------
+- Corporate Salary Package: AMB is waived to INR 0 provided salary credit of at 
+  least INR 20,000 occurs every consecutive 60 days. If salary ceases for 3 
+  consecutive months, the account automatically converts to Classic Retail SB.

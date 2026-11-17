@@ -1,0 +1,64 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB)
+DOCUMENT: POL-005 | Savings Account Opening and Minimum Balance Policy
+VERSION: 2.1 | STATUS: ACTIVE | EFFECTIVE: 2024-03-01
+CLASSIFICATION: PUBLIC | SYNTHETIC DEMO DATA ONLY
+================================================================================
+
+SECTION 1: SAVINGS ACCOUNT TYPES AND MINIMUM BALANCE
+
+Account Type                    Monthly Average Balance   Charges if Below MAB
+------------------------------  ----------------------    -------------------------
+MNB Basic Savings (Zero-Bal)    No minimum required       Nil
+MNB Regular Savings             INR 5,000                 INR 150 per month
+MNB Premium Savings             INR 25,000                INR 400 per month
+MNB Elite Savings               INR 1,00,000              INR 750 per month
+
+Note: Monthly Average Balance (MAB) is calculated as sum of daily closing balances
+divided by number of days in the month.
+
+SECTION 2: INTEREST ON SAVINGS ACCOUNTS
+
+Account Balance             Interest Rate (% p.a.)
+--------------------------  ----------------------
+Up to INR 1,00,000          3.50%
+INR 1,00,001 – INR 5,00,000 4.00%
+Above INR 5,00,000          4.25%
+
+Interest credited: Quarterly (March, June, September, December)
+Calculation: Simple interest on daily closing balance
+
+SECTION 3: DOCUMENTS REQUIRED FOR ACCOUNT OPENING
+
+3.1 For Indian Residents:
+    - PAN Card (mandatory)
+    - Aadhaar Card (mandatory for KYC)
+    - Passport-size photograph (2 copies)
+    - Initial deposit cheque or cash
+
+3.2 For NRI Savings (NRE / NRO):
+    - Passport (valid)
+    - Visa / Residence permit
+    - Overseas address proof
+    - PAN Card or Form 60
+
+SECTION 4: ACCOUNT FEATURES — MNB PREMIUM SAVINGS
+- Free unlimited ATM withdrawals (MNB ATMs and other bank ATMs)
+- Free RTGS / NEFT transfers (online banking)
+- Demat account linkage at zero cost
+- Complimentary international debit card
+- 25% discount on locker rental charges
+- Dedicated relationship manager for balances above INR 10,00,000
+
+SECTION 5: ACCOUNT CLOSURE CHARGES
+- Within 6 months of opening: INR 500
+- After 6 months: Nil
+- Dormant account reactivation: INR 100 (with valid KYC update)
+
+SECTION 6: INOPERATIVE / DORMANT ACCOUNTS
+Account becomes inoperative after 12 months of no customer-initiated transactions.
+Account marked dormant after 24 months of inactivity.
+Funds transferred to RBI's DEAF fund after 10 years of unclaimed status.
+
+Document Ref: MNB/POL/005/2024 | Approved by: Head of Retail Banking
+================================================================================

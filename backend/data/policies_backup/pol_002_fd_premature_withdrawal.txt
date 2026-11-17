@@ -1,0 +1,59 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB)
+DOCUMENT: POL-002 | Fixed Deposit Premature Withdrawal Policy
+VERSION: 2.1 | STATUS: ACTIVE | EFFECTIVE: 2024-04-01
+CLASSIFICATION: PUBLIC | SYNTHETIC DEMO DATA ONLY
+================================================================================
+
+SECTION 1: GENERAL WITHDRAWAL RULES
+
+1.1 Minimum tenure before withdrawal:
+    Standard FD: No minimum (any time)
+    Tax Saver FD (POL-012 MNB Shield-5): Cannot be withdrawn before 5-year lock-in
+    
+1.2 Premature withdrawal request: Must be submitted in writing at branch or via NetBanking
+    for FDs up to INR 5,00,000. Above INR 5,00,000 requires branch visit.
+
+SECTION 2: INTEREST PAYABLE ON PREMATURE WITHDRAWAL
+
+The interest paid on premature withdrawal is calculated at the LOWER of:
+  (a) The contracted rate at time of FD booking, OR
+  (b) The rate applicable for the tenure the FD has actually been held,
+  MINUS the applicable penalty.
+
+SECTION 3: PENALTY MATRIX
+
+Tenure Actually Held    Penalty Deduction
+--------------------    -----------------------------------------------------------
+Less than 3 months      No interest paid. Original principal returned in full.
+3 months to 6 months    1.00% deducted from the applicable rate (clause 2 above)
+6 months to 12 months   0.75% deducted from the applicable rate
+12 months to 24 months  0.50% deducted from the applicable rate
+24 months and above     0.50% deducted from the applicable rate
+
+Example 1: FD booked at 7.00% for 3 years. Withdrawn after 7 months.
+  Rate for 7 months = 5.75% (from POL-012 schedule: 181–270 days band)
+  Penalty = 0.75%
+  Interest paid = 5.75% - 0.75% = 5.00% p.a. for 7 months
+
+Example 2: FD booked at 6.75% for 2 years. Withdrawn after 4 months.
+  Rate for 4 months = 5.25% (91–120 days band), contracted = 6.75%
+  Lower = 5.25%. Penalty = 1.00%. Interest paid = 4.25% p.a. for 4 months.
+
+SECTION 4: PARTIAL WITHDRAWAL
+FDs of INR 25,000 and above may be partially withdrawn.
+Minimum partial withdrawal: INR 10,000 or 25% of FD principal (whichever is higher).
+Remaining principal continues as FD at original contracted rate and tenure.
+Partial withdrawal not available for Tax Saver FDs.
+
+SECTION 5: LOAN AGAINST FD (ALTERNATIVE TO PREMATURE WITHDRAWAL)
+Customers may avail overdraft / loan against FD up to 90% of FD value.
+Rate on loan against FD: 1.00% above the contracted FD rate.
+This avoids premature withdrawal penalty and FD continues to earn full interest.
+
+SECTION 6: AUTO-RENEWAL
+FDs not claimed within 14 days of maturity are automatically renewed for the same
+tenure at the rate prevailing on the maturity date.
+
+Document Ref: MNB/POL/002/2024 | Approved by: Chief Treasury Officer
+================================================================================

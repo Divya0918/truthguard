@@ -1,0 +1,85 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — REGULATORY COMPLIANCE CHARTER
+DOCUMENT CLASSIFICATION: CONSUMER PROTECTION & GRIEVANCE REDRESSAL MECHANISM
+[SYNTHETIC TEST DATA — FOR TESTING AND DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+DOCUMENT ID: MNB-POL-011
+TITLE: Complaint and Grievance Resolution Policy
+VERSION: 3.0
+EFFECTIVE DATE: 2024-01-01
+APPROVAL STATUS: Approved by Customer Service Committee & Chief Compliance Officer
+DEPARTMENT: Quality Assurance & Customer Experience Division
+TARGET AUDIENCE: All Employees, Branch Service Managers, Internal Ombudsman
+
+--------------------------------------------------------------------------------
+1. PURPOSE & FAIR BANKING COMMITMENT
+--------------------------------------------------------------------------------
+Meridian National Bank (MNB) is committed to transparent, fair, and prompt resolution 
+of customer grievances. This document defines official channels of complaint receipt, 
+turnaround time (TAT) service level agreements, escalation stages, and financial 
+compensation rules for service deficiencies.
+
+--------------------------------------------------------------------------------
+2. MULTI-CHANNEL COMPLAINT SUBMISSION
+--------------------------------------------------------------------------------
+Customers can register grievances through any of the following touchpoints:
+1. Branch Channel: Written complaint recorded in the physical Branch Complaint Register 
+   or handed to the Branch Service Manager. A unique acknowledgement ticket is handed over.
+2. Voice / Contact Center: 24x7 Customer Care toll-free line at 1800-419-MNB (1800-419-662).
+3. Electronic Mail: Dedicated email desk at `grievance.redressal@meridian-nb.com`.
+4. Digital Portal / Mobile Banking: In-app support ticketing via "Raise a Dispute" feature.
+
+--------------------------------------------------------------------------------
+3. RESOLUTION TIMELINES (SERVICE LEVEL BENCHMARKS)
+--------------------------------------------------------------------------------
+Complaints are classified based on operational complexity and investigated under 
+strict statutory timelines:
+
++-----------------------------+--------------------+--------------------------+
+| Category of Complaint       | Typical Issues     | Maximum Resolution TAT   |
++-----------------------------+--------------------+--------------------------+
+| Level 1: Simple / Ops       | ATM cash non-disp, | T + 3 Working Days       |
+|                             | SMS alert failure  | (Target: 72 hours)       |
+| Level 2: Intermediary       | POS / UPI decline, | T + 7 Working Days       |
+|                             | erroneous charges  |                          |
+| Level 3: Complex / Forensic | Fraudulent trans., | T + 15 Working Days      |
+|                             | unauthorized debit |                          |
+| Level 4: Credit Bureau      | CIBIL reporting    | T + 30 Calendar Days     |
+|                             | correction dispute | (Statutory limit)        |
++-----------------------------+--------------------+--------------------------+
+
+Note: "T" represents the date of formal logging and ticket generation in the MNB 
+central grievance portal.
+
+--------------------------------------------------------------------------------
+4. FOUR-TIER ESCALATION MATRIX & BANKING OMBUDSMAN
+--------------------------------------------------------------------------------
+If a complaint remains unresolved or the complainant is dissatisfied with the response:
+
+- Tier 1: Branch Manager / Frontline Support Desk (Resolution within T+3 days).
+- Tier 2: Regional Grievance Redressal Officer (RGRO) (Resolution within T+7 days).
+- Tier 3: Principal Nodal Officer (PNO) & Internal Ombudsman (IO) located at 
+  Corporate Headquarters, Mumbai.
+- Tier 4: Reserve Bank Integrated Ombudsman Scheme (RBI-OS): If the bank fails to 
+  resolve the complaint within 30 calendar days from initial lodging date, or if the 
+  customer receives an unsatisfactory rejection, the customer may approach the 
+  Reserve Bank Banking Ombudsman online at https://cms.rbi.org.in.
+
+--------------------------------------------------------------------------------
+5. CUSTOMER COMPENSATION POLICY FOR FAILED TRANSACTIONS
+--------------------------------------------------------------------------------
+In compliance with central banking Harmonization of TAT guidelines:
+- ATM Cash Dispense Failures: If customer account is debited but cash is not dispensed, 
+  and the bank fails to reverse within T+5 calendar days, MNB pays compensation of 
+  INR 100 per day of delay directly into the customer's account.
+- Failed UPI / IMPS Transfers: Auto-reversal within T+1 day. Delay beyond T+1 
+  incurs INR 100 per day penalty.
+- Unauthorized Electronic Fraud: Zero liability for customer if reported within 
+  3 working days of occurrence.
+
+--------------------------------------------------------------------------------
+6. POLICY EXCEPTIONS
+--------------------------------------------------------------------------------
+- Complaints pending before courts, consumer forums, or statutory judicial tribunals 
+  fall outside the administrative grievance redressal jurisdiction.

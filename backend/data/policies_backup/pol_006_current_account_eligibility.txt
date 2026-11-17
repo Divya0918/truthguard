@@ -1,0 +1,86 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — POLICY CIRCULAR
+DOCUMENT CLASSIFICATION: COMMERCIAL BANKING OPERATIONAL POLICY
+[SYNTHETIC TEST DATA — FOR TESTING AND DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+DOCUMENT ID: MNB-POL-006
+TITLE: Current Account Eligibility Policy
+VERSION: 2.0
+EFFECTIVE DATE: 2024-02-01
+APPROVAL STATUS: Approved by Commercial Banking Steering Group
+DEPARTMENT: Commercial Liabilities & Transaction Banking Division
+TARGET AUDIENCE: Corporate Relationship Managers, Branch Operations, Trade Desk
+
+--------------------------------------------------------------------------------
+1. PURPOSE & PRINCIPLES
+--------------------------------------------------------------------------------
+This document establishes regulatory norms, entity eligibility criteria, Average 
+Quarterly Balance (AQB) schedules, overdraft lending criteria, and non-compliance 
+penalties for Current Accounts maintained at Meridian National Bank (MNB).
+
+--------------------------------------------------------------------------------
+2. ELIGIBLE BUSINESS ENTITIES & DOCUMENTATION
+--------------------------------------------------------------------------------
+Current Accounts are designed for non-individual entities and trading individuals:
+
++----------------------------+------------------------------------------------+
+| Entity Constitution        | Mandatory Verification Documents               |
++----------------------------+------------------------------------------------+
+| Sole Proprietorship        | GST Registration, Shop & Est. License, Udyam   |
+| Partnership Firm           | Registered Partnership Deed, Form A/B, GSTIN   |
+| Limited Liability Co (LLP) | Certificate of Incorporation, LLP Agreement    |
+| Private / Public Limited   | Certificate of Incorp, MOA/AOA, Board Res.,    |
+|                            | Beneficial Ownership declaration (>10% share)  |
+| Trusts, Societies & Clubs  | Trust Deed, 12A/80G, Managing Committee Res.   |
++----------------------------+------------------------------------------------+
+
+Statutory GST Mandate: Valid Goods and Services Tax Identification Number (GSTIN) 
+is mandatory for all entities with annual sales/turnover exceeding INR 2,000,000 
+(or INR 1,000,000 in special category northeastern states).
+
+--------------------------------------------------------------------------------
+3. MINIMUM AVERAGE QUARTERLY BALANCE (AQB) SCHEDULE
+--------------------------------------------------------------------------------
+Current accounts earn 0% interest and require maintenance of the following 
+minimum balances computed on a quarterly basis:
+
++-------------------------+----------------------+----------------------------+
+| Current Account Variant | Minimum AQB          | Quarterly Shortfall Fee    |
++-------------------------+----------------------+----------------------------+
+| MNB Classic Business    | INR 25,000           | INR 1,500 + GST            |
+| MNB Advantage Business  | INR 100,000          | INR 3,000 + GST            |
+| MNB Dynamic Corporate   | INR 500,000          | INR 6,000 + GST            |
+| MNB Institutional Elite | INR 1,000,000        | INR 10,000 + GST           |
++-------------------------+----------------------+----------------------------+
+
+--------------------------------------------------------------------------------
+4. SECURED & UNSECURED OVERDRAFT (OD) CONDITIONS
+--------------------------------------------------------------------------------
+Eligible commercial account holders may apply for Clean or Secured Overdraft limits:
+- Vintage Requirement: Business track record of at least 24 consecutive operating months.
+- Clean (Unsecured) OD: Up to 20% of audited annual banking turnover, max INR 2,500,000. 
+  Interest rate: Base Rate + 4.50% (effective 13.50% p.a.).
+- Secured OD: Against fixed deposits or commercial property (up to 70% collateral 
+  value). Interest rate: Deposit rate + 1.50% or Base Rate + 1.75%.
+- Annual Review: All OD facilities are subject to mandatory annual renewal with 
+  submission of fresh audited financials and tax returns.
+
+--------------------------------------------------------------------------------
+5. CHEQUE RETURN & DISHONOR CHARGES
+--------------------------------------------------------------------------------
+Cheque dishonor represents a serious breach of credit discipline:
+- Inward Cheque Dishonor (Financial / Insufficient Funds):
+  - 1st Return in Quarter: INR 500 per instrument.
+  - 2nd Return in Quarter: INR 750 per instrument.
+  - 3rd and subsequent returns: INR 1,000 per instrument.
+- Outward Cheque Dishonor (Technical / Signature Mismatch): INR 200 flat.
+- Repeated Dishonor Rule: If 4 financial cheque bounces occur within a calendar 
+  quarter, the cheque book facility is suspended, and the account is flagged for review.
+
+--------------------------------------------------------------------------------
+6. POLICY EXCEPTIONS
+--------------------------------------------------------------------------------
+- DPIIT Registered Startups: Zero-AQB exemption for the first 12 months from 
+  incorporation date upon producing DPIIT recognition certificate.
+- Escrow / RERA Designated Accounts: Excluded from general AQB shortfall levies.

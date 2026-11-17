@@ -1,0 +1,72 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB)
+DOCUMENT: POL-003 | Gold Loan Interest Rate and Repayment Policy
+VERSION: 3.0 | STATUS: ACTIVE | EFFECTIVE: 2024-06-01
+CLASSIFICATION: PUBLIC | SYNTHETIC DEMO DATA ONLY
+================================================================================
+
+SECTION 1: PURPOSE
+This policy governs the interest rates, processing fees, and repayment options
+for gold loans disbursed by Meridian National Bank to eligible customers.
+
+SECTION 2: INTEREST RATE SCHEDULE — GOLD LOANS
+
+2.1 Standard Gold Loan Rates (Bullet / Overdraft Scheme)
+
+LTV Ratio               Tenure        Rate (% p.a.)
+---------------------   ----------    -------------
+Up to 65% LTV           Up to 6 mo    9.50%
+Up to 65% LTV           6–12 months   10.00%
+65.01% to 70% LTV       Up to 6 mo    10.50%
+65.01% to 70% LTV       6–12 months   11.00%
+70.01% to 75% LTV (max) Up to 6 mo    11.50%
+70.01% to 75% LTV (max) 6–12 months   12.00%
+
+Note: Maximum LTV ratio permitted is 75% as per RBI guidelines.
+Gold loans exceeding 75% LTV are not sanctioned under any scheme.
+
+2.2 EMI Gold Loan Rates (Reducing Balance)
+
+Tenure              Rate (% p.a.)   Processing Fee
+-----------         -------------   --------------
+12 months           10.50%          1.00% of loan
+18 months           11.00%          1.00% of loan
+24 months           11.50%          1.25% of loan
+36 months (max)     12.00%          1.50% of loan
+
+Processing fee is charged upfront and is non-refundable.
+
+SECTION 3: REPAYMENT SCHEMES
+
+3.1 Bullet Repayment: Interest paid monthly; principal repaid at end of tenure.
+    Available for tenures up to 12 months.
+    Interest reset: Quarterly at prevailing rate if principal is not repaid.
+
+3.2 EMI Scheme: Equal monthly installments covering principal + interest.
+    Prepayment allowed with 2% prepayment charge on outstanding principal.
+    No prepayment charge after 12 months of EMI payments.
+
+3.3 Overdraft (OD) Scheme: Credit limit up to 75% LTV; interest charged on
+    actual utilization only. Rate: 12.50% p.a.
+    Available for loan amounts INR 1,00,000 and above.
+
+SECTION 4: PROCESSING FEES AND CHARGES
+
+Fee Type                    Charge
+-----------------------     --------------------------------
+Processing fee (Bullet)     0.50% of loan amount (min INR 500)
+Processing fee (EMI)        1.00% – 1.50% (tenure-based)
+Valuation fee               INR 250 per packet of gold
+Documentation charges       INR 200 (one-time)
+Renewal fee                 0.25% of loan amount
+Penal interest              2.00% p.a. over contracted rate
+Pre-payment (within 12 mo.) 2.00% on outstanding principal
+Pre-payment (after 12 mo.)  Nil
+
+SECTION 5: LOAN AMOUNTS
+Minimum gold loan: INR 10,000
+Maximum gold loan: INR 50,00,000 (subject to LTV and gold purity assessment)
+Loan disbursed in: Account credit or demand draft (no cash above INR 20,000)
+
+Document Ref: MNB/POL/003/2024 | Approved by: Chief Risk Officer
+================================================================================

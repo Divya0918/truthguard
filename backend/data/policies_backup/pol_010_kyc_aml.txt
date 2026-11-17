@@ -1,0 +1,59 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB)
+DOCUMENT: POL-010 | KYC (Know Your Customer) and AML Compliance Policy
+VERSION: 4.0 | STATUS: ACTIVE | EFFECTIVE: 2024-01-01
+CLASSIFICATION: INTERNAL USE | SYNTHETIC DEMO DATA ONLY
+================================================================================
+
+SECTION 1: KYC FREQUENCY AND PERIODIC UPDATE
+
+Customer Risk Category    KYC Update Frequency
+----------------------    --------------------
+Low Risk                  Every 10 years
+Medium Risk               Every 8 years
+High Risk                 Every 2 years
+
+Risk categorization is based on transaction patterns, geography, occupation, and
+account vintage as per RBI KYC Master Directions, 2016 (updated 2023).
+
+SECTION 2: OFFICIALLY VALID DOCUMENTS (OVDs) — INDIA
+
+Category        Accepted Documents
+-----------     --------------------------------------------------
+Identity        Aadhaar (UIDAI-verified), PAN Card, Passport,
+                Voter ID, Driving Licence, NREGA Job Card
+Address         Aadhaar, Utility Bills (≤3 months), Bank Statement,
+                Rental Agreement (registered), Employer letter
+
+SECTION 3: VIDEO KYC (V-KYC) PROCESS
+MNB offers V-KYC for account opening without branch visit.
+Requirements:
+- Stable internet connection
+- Original PAN Card and Aadhaar
+- Live facial recognition match with Aadhaar photo
+- Digital signature via OTP
+
+V-KYC supported for: Savings accounts, FDs, Credit cards, Personal loans.
+
+SECTION 4: AML — SUSPICIOUS TRANSACTION REPORTING
+
+4.1 Cash transactions of INR 10,00,000 or above in a single day must be reported
+    to the Financial Intelligence Unit — India (FIU-IND) under PMLA, 2002.
+
+4.2 Structuring (splitting transactions to avoid reporting threshold) is prohibited
+    and monitored via automated AML systems.
+
+4.3 Suspicious Transaction Report (STR) must be filed within 7 working days of
+    the suspicious transaction being identified.
+
+4.4 Customer must not be tipped off about any STR filing.
+
+SECTION 5: BENEFICIAL OWNERSHIP (BO) FOR BUSINESSES
+For accounts with a legal entity, beneficial owners (those with ≥25% shareholding
+or controlling interest) must complete individual KYC.
+Shell companies from FATF blacklisted / greylisted jurisdictions: Account opening
+is prohibited as per MNB policy.
+
+Document Ref: MNB/POL/010/2024 | Approved by: Chief Compliance Officer
+Review date: January 1, 2026
+================================================================================

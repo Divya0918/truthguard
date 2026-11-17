@@ -1,0 +1,90 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — MASTER TARIFF CIRCULAR
+DOCUMENT CLASSIFICATION: PUBLIC TARIFF SCHEDULE & CONSUMER DISCLOSURE
+[SYNTHETIC TEST DATA — FOR TESTING AND DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+DOCUMENT ID: MNB-POL-008
+TITLE: Banking Fees and Service Charges Schedule
+VERSION: 5.0
+EFFECTIVE DATE: 2024-07-01
+APPROVAL STATUS: Approved by Tariff & Consumer Fair Practices Committee
+DEPARTMENT: Central Operations & Fee Pricing Directorate
+TARGET AUDIENCE: Branch Front Offices, Online Banking Portals, Audit Compliance
+
+--------------------------------------------------------------------------------
+1. GENERAL POLICY APPLICABILITY
+--------------------------------------------------------------------------------
+This schedule establishes the standardized fee structure and service charges levied 
+by Meridian National Bank (MNB) across all consumer and commercial banking products. 
+All charges are subject to statutory Goods and Services Tax (GST) at prevailing rates 
+(currently 18%) unless explicitly specified as tax-exempt.
+
+--------------------------------------------------------------------------------
+2. COMPREHENSIVE TARIFF AND SERVICE CHARGES TABLE
+--------------------------------------------------------------------------------
+The fees detailed below apply uniformly across domestic retail and commercial accounts:
+
++---------------------------------------+-------------------------------------+
+| Service / Transaction Category        | Prescribed Charge (Exclusive of GST)|
++---------------------------------------+-------------------------------------+
+| 1. ATM TRANSACTIONS                   |                                     |
+| - MNB ATM: First 5 monthly trans.     | Free of charge                      |
+| - MNB ATM: 6th transaction onwards    | INR 21.00 per financial transaction |
+| - Non-MNB ATM (Metro): First 3 trans. | Free of charge                      |
+| - Non-MNB ATM (Non-Metro): First 5    | Free of charge                      |
+| - Non-MNB ATM beyond free limit       | INR 21.00 (Cash) / INR 10 (Non-fin) |
+| - International ATM Cash Withdrawal   | INR 150.00 + 3.50% forex markup fee |
++---------------------------------------+-------------------------------------+
+| 2. ELECTRONIC FUND TRANSFERS          |                                     |
+| - NEFT Online (Internet/Mobile App)   | Free of charge (INR 0.00)           |
+| - NEFT at Branch (Up to INR 10,000)   | INR 2.50 per transaction            |
+| - NEFT at Branch (INR 10k - 100k)     | INR 5.00 per transaction            |
+| - NEFT at Branch (INR 100k - 200k)    | INR 15.00 per transaction           |
+| - NEFT at Branch (Above INR 200,000)  | INR 25.00 per transaction           |
+| - RTGS Online (Internet/Mobile App)   | Free of charge (INR 0.00)           |
+| - RTGS at Branch (INR 200k - 500k)    | INR 20.00 per transaction           |
+| - RTGS at Branch (Above INR 500,000)  | INR 40.00 per transaction           |
+| - IMPS (Up to INR 1,000)              | Free of charge                      |
+| - IMPS (INR 1,001 to INR 10,000)      | INR 3.00 per transaction            |
+| - IMPS (INR 10,001 to INR 100,000)    | INR 6.00 per transaction            |
+| - IMPS (INR 100,001 to INR 500,000)   | INR 15.00 per transaction           |
++---------------------------------------+-------------------------------------+
+| 3. REMITTANCES & DEMAND DRAFTS (DD)   |                                     |
+| - DD Issuance (Up to INR 10,000)      | INR 50.00 flat                      |
+| - DD Issuance (Above INR 10,000)      | INR 4.00 per INR 1,000 (Min INR 75, |
+|                                       | Max INR 2,500)                      |
+| - DD Cancellation or Revalidation     | INR 100.00 per instrument           |
+| - Duplicate DD Issuance               | INR 150.00 per instrument           |
++---------------------------------------+-------------------------------------+
+| 4. CHEQUE BOOKS & PAPER STATEMENTS    |                                     |
+| - Free Cheque Leaves per annum        | 25 leaves free per financial year   |
+| - Additional Cheque Leaves            | INR 4.00 per leaf (Pack of 25=INR100|
+| - Physical Account Statement (Branch) | INR 100.00 per statement request    |
+| - Duplicate Passbook Issuance         | INR 100.00 (with updated entries)   |
+| - Monthly E-mail Statement            | Free of charge (INR 0.00)           |
++---------------------------------------+-------------------------------------+
+| 5. SAFE DEPOSIT LOCKER ANNUAL RENTALS |                                     |
+| - Small Locker (Metro / Urban)        | INR 2,000.00 per financial year     |
+| - Medium Locker (Metro / Urban)       | INR 4,500.00 per financial year     |
+| - Large Locker (Metro / Urban)        | INR 8,000.00 per financial year     |
+| - Extra Large / Premium Vault         | INR 15,000.00 per financial year    |
+| - Rural / Semi-Urban Discount         | 25% concession on above locker rates|
++---------------------------------------+-------------------------------------+
+
+--------------------------------------------------------------------------------
+3. ACCOUNT MAINTENANCE & ANNUAL CHARGES
+--------------------------------------------------------------------------------
+- Classic Debit Card Annual Maintenance Fee: INR 200.00 + GST.
+- Platinum / International Debit Card Annual Fee: INR 500.00 + GST.
+- Inactive / Dormant Account Conversion Fee: Strictly Nil (prohibited by regulator).
+- Account Closure Charges: Free if closed within 14 days of opening; INR 500 if 
+  closed between 15 days and 12 months; free after 12 months of operation.
+
+--------------------------------------------------------------------------------
+4. POLICY EXCEPTIONS
+--------------------------------------------------------------------------------
+- Basic Savings Bank Deposit Accounts (BSBDA): Zero charges on all electronic 
+  transfers, zero debit card annual maintenance fees, and free quarterly statements.
+- Senior Citizens (Aged 60+): 50% concession on physical statement charges and 
+  demand draft issuance fees.

@@ -1,0 +1,94 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB)
+DOCUMENT: POL-012 | Fixed Deposit Interest Rate Schedule
+VERSION: 2.0 (CURRENT — Supersedes POL-001 v1.0)
+STATUS: ACTIVE | EFFECTIVE: 2024-01-01
+CLASSIFICATION: PUBLIC | SYNTHETIC DEMO DATA ONLY
+================================================================================
+
+SECTION 1: PURPOSE AND SCOPE
+This document establishes the revised interest rate schedule for Fixed Deposit (FD)
+accounts at Meridian National Bank, effective January 1, 2024. This version (v2.0)
+supersedes the previous schedule (POL-001, v1.0, dated 2023-01-01). All new FDs
+opened on or after January 1, 2024 attract rates as specified in this document.
+FDs opened before this date will continue at the rates prevailing at time of booking
+until maturity, after which renewal rates will be as per this schedule.
+
+SECTION 2: REVISED STANDARD INTEREST RATE SCHEDULE (2024 — CURRENT)
+
+Tenure              General Rate (% p.a.)   Senior Citizen Rate (% p.a.)
+-----------         ---------------------   ----------------------------
+7 – 14 days         3.75%                   4.25%
+15 – 30 days        4.25%                   4.75%
+31 – 45 days        4.50%                   5.00%
+46 – 60 days        4.75%                   5.25%
+61 – 90 days        5.00%                   5.50%
+91 – 120 days       5.25%                   5.75%
+121 – 180 days      5.50%                   6.00%
+181 – 270 days      5.75%                   6.25%
+271 days – 1 year   6.00%                   6.50%
+1 year – 2 years    6.75%                   7.25%
+2 years – 3 years   7.00%                   7.50%
+3 years – 5 years   7.25%                   7.75%
+5 years – 10 years  7.50%                   8.00%
+
+KEY CHANGE FROM v1.0: All rates increased by 0.25% – 0.50% p.a. to reflect
+current monetary policy environment.
+
+SECTION 3: SENIOR CITIZEN BENEFIT (REVISED)
+Senior citizens (age 60 years and above) receive an additional 0.50% per annum
+above the general rate. This benefit is unchanged from v1.0.
+Proof of age (Aadhaar card, PAN card, or passport) is required at account opening.
+Senior citizen rates are marked in the schedule above.
+
+SECTION 4: SPECIAL FD CATEGORIES (2024)
+
+4.1 Tax Saver FD "MNB Shield-5"
+    Tenure: Exactly 5 years (mandatory lock-in, no premature withdrawal)
+    Rate: 7.50% p.a. (general) | 8.00% p.a. (senior citizen)
+    Maximum investment: INR 1,50,000 per financial year per PAN
+    Tax benefit: Deduction under Section 80C of the Income Tax Act, 1961
+    Interest payout: Quarterly (cannot be changed post-booking)
+
+4.2 Flexi FD "MNB SmartDeposit"
+    Linked to primary savings account with sweep-in / sweep-out facility
+    Minimum FD amount: INR 25,000
+    Rate: Prevailing tenure rate at time of sweep-in
+    Auto-renewal: At rate prevailing on maturity date
+
+4.3 Recurring Deposit (RD) — For Reference
+    Minimum monthly installment: INR 500
+    Rates: Same as FD rates for corresponding accumulated tenure
+    Premature closure rules same as FD
+
+SECTION 5: PREMATURE WITHDRAWAL PENALTY MATRIX (2024)
+
+Tenure Held         Penalty Deduction from Applicable FD Rate
+----------------    ------------------------------------------
+Less than 3 months  Nil interest; principal returned in full
+3 – 6 months        1.00% deducted from the applicable rate
+6 – 12 months       0.75% deducted from the applicable rate
+More than 12 months 0.50% deducted from the applicable rate
+
+Example: FD booked at 6.75% p.a. for 2 years, withdrawn after 18 months.
+Applicable rate for 18 months tenure = 6.75%. Penalty = 0.50%. Effective rate = 6.25%.
+
+SECTION 6: INTEREST CALCULATION METHOD
+6.1 Tenure up to 12 months: Simple interest.
+6.2 Tenure above 12 months: Quarterly compounded interest.
+6.3 Interest payout options: Monthly, Quarterly, Half-yearly, At maturity.
+6.4 TDS: Deducted at source per current Income Tax rules when annual interest
+    exceeds INR 40,000 (INR 50,000 for senior citizens).
+
+SECTION 7: RENEWAL POLICY
+7.1 Auto-renewal: At the rate prevailing on the maturity date for the same tenure.
+7.2 Renewal notice: MNB will send reminders 30 days and 7 days before maturity.
+7.3 Grace period: 14 days from maturity date to claim without loss of interest.
+
+SECTION 8: REGULATORY COMPLIANCE
+These rates are set in accordance with RBI guidelines and MNB Board approval
+dated December 15, 2023. Rates are subject to periodic review.
+
+Document Ref: MNB/POL/012/2024 | Approved by: Chief Treasury Officer
+Review date: January 1, 2025
+================================================================================

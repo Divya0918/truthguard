@@ -1,0 +1,47 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB)
+DOCUMENT: POL-008 | Home Loan Policy
+VERSION: 3.0 | STATUS: ACTIVE | EFFECTIVE: 2024-04-01
+CLASSIFICATION: PUBLIC | SYNTHETIC DEMO DATA ONLY
+================================================================================
+
+SECTION 1: HOME LOAN PRODUCTS
+
+1.1 MNB GrihaShakti — Standard Home Purchase Loan
+1.2 MNB GrihaShakti Plus — Balance Transfer + Top-Up
+1.3 MNB BuildIt — Self-Construction Loan
+1.4 MNB RenovateNow — Home Renovation Loan
+
+SECTION 2: INTEREST RATES (Floating, Linked to MNB Base Rate 8.50%)
+
+Loan Category                           Rate (% p.a., Floating)
+--------------------------------------  -----------------------
+Loan up to INR 30 lakh                  8.75%
+Loan INR 30 lakh – INR 75 lakh         9.00%
+Loan INR 75 lakh – INR 1.5 crore       9.25%
+Loan above INR 1.5 crore               9.50%
+Women applicants (primary borrower)     -0.05% concession on above rates
+
+Fixed rate option: 10.50% p.a. for first 3 years; floating thereafter.
+
+SECTION 3: LTV RATIOS FOR HOME LOANS
+
+Property Cost                LTV (Max)
+--------------------------   ---------
+Up to INR 30 lakh            90%
+INR 30 lakh – INR 75 lakh   80%
+Above INR 75 lakh            75%
+
+SECTION 4: ELIGIBILITY
+Minimum age: 21 years; Maximum age at loan maturity: 70 years (salaried), 75 years (self-employed with co-applicant).
+Minimum income: INR 3,00,000 per annum (individual or joint).
+CIBIL score: Minimum 700.
+Maximum tenure: 30 years (360 months).
+
+SECTION 5: CHARGES
+Processing fee: 0.50% of loan amount (min INR 2,500; max INR 15,000).
+Prepayment (floating rate): Nil (as per RBI guidelines).
+Prepayment (fixed rate): 2% of outstanding principal within fixed-rate period.
+
+Document Ref: MNB/POL/008/2024 | Approved by: Chief Credit Officer
+================================================================================

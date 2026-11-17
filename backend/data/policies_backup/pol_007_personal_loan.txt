@@ -1,0 +1,47 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB)
+DOCUMENT: POL-007 | Personal Loan Policy — Eligibility and Rates
+VERSION: 2.0 | STATUS: ACTIVE | EFFECTIVE: 2024-04-01
+CLASSIFICATION: PUBLIC | SYNTHETIC DEMO DATA ONLY
+================================================================================
+
+SECTION 1: PERSONAL LOAN PRODUCT OVERVIEW
+MNB offers unsecured personal loans for personal needs including medical expenses,
+travel, home renovation, education, and debt consolidation.
+
+SECTION 2: ELIGIBILITY CRITERIA
+
+Category            Minimum Salary    Age Range    Credit Score   Max Loan
+-----------------   --------------    ----------   ------------   ----------
+Salaried (Pvt)      INR 25,000/mo     21–58 yrs    700+           INR 20 lakh
+Salaried (Govt)     INR 20,000/mo     21–60 yrs    680+           INR 25 lakh
+Self-employed       INR 3,00,000/yr   25–65 yrs    720+           INR 15 lakh
+MNB Salary Acct     INR 20,000/mo     21–58 yrs    No minimum     INR 30 lakh
+
+SECTION 3: INTEREST RATE STRUCTURE
+
+Credit Score        Rate Band (% p.a.)   Processing Fee
+-----------------   ------------------   --------------
+800 and above       10.50% – 11.00%      1.00% (max INR 5,000)
+750 – 799           11.00% – 12.00%      1.50%
+700 – 749           12.00% – 13.50%      2.00%
+Below 700           Not eligible
+MNB Staff           8.50% flat           Nil
+
+Rates are on reducing balance method.
+
+SECTION 4: LOAN PARAMETERS
+Minimum loan: INR 50,000
+Maximum loan: INR 30,00,000 (subject to eligibility)
+Minimum tenure: 12 months
+Maximum tenure: 60 months (5 years)
+Prepayment: Allowed after 12 EMIs; 3% charge on outstanding principal.
+
+SECTION 5: REQUIRED DOCUMENTS
+- PAN Card, Aadhaar Card
+- Last 3 months salary slips (salaried) or 2 years ITR (self-employed)
+- 6 months bank statement
+- Employer ID or appointment letter (salaried)
+
+Document Ref: MNB/POL/007/2024 | Approved by: Chief Credit Officer
+================================================================================

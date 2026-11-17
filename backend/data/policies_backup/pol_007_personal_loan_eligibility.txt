@@ -1,0 +1,85 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — POLICY CIRCULAR
+DOCUMENT CLASSIFICATION: UNSECURED CONSUMER CREDIT POLICY
+[SYNTHETIC TEST DATA — FOR TESTING AND DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+DOCUMENT ID: MNB-POL-007
+TITLE: Personal Loan Eligibility Policy
+VERSION: 3.1
+EFFECTIVE DATE: 2024-05-01
+APPROVAL STATUS: Approved by Retail Risk & Credit Management Board
+DEPARTMENT: Retail Unsecured Lending Division
+TARGET AUDIENCE: Retail Credit Underwriters, Direct Selling Agents, Branch Managers
+
+--------------------------------------------------------------------------------
+1. PURPOSE & SCOPE
+--------------------------------------------------------------------------------
+This document establishes underwriting parameters, credit bureau benchmarks, 
+borrowing capacity matrices, and interest rate tiers for unsecured personal 
+loans granted to individual borrowers by Meridian National Bank (MNB).
+
+--------------------------------------------------------------------------------
+2. BORROWER ELIGIBILITY CRITERIA
+--------------------------------------------------------------------------------
+Applicants must fulfill each of the baseline criteria outlined below:
+
++----------------------------+------------------------------------------------+
+| Parameter                  | Salaried Applicants     | Self-Employed / Prof |
++----------------------------+------------------------------------------------+
+| Age at Application         | Min 21 years            | Min 25 years         |
+| Age at Loan Maturity       | Max 60 years (or retire)| Max 65 years         |
+| Minimum Net Monthly Income | INR 30,000 (Metro/Tier1)| INR 50,000 (Profit)  |
+|                            | INR 25,000 (Other cities| Min INR 600k ITR p.a.|
+| Employment Stability       | Min 1 year continuous   | Min 3 years in business|
+| Minimum CIBIL TransUnion   | Score >= 700            | Score >= 720         |
+| Fixed Obligation to Income | Max 50% FOIR (Debt/Inc) | Max 45% FOIR         |
++----------------------------+------------------------------------------------+
+
+Credit Bureau Threshold: Any applicant with a CIBIL score strictly below 700 is 
+system-rejected. Hard inquiries exceeding 4 in the preceding 90 days trigger an 
+automatic manual risk review.
+
+--------------------------------------------------------------------------------
+3. LOAN QUANTUM, TENURE & REPAYMENT OPTIONS
+--------------------------------------------------------------------------------
+Personal loans are sanctioned as clean credit without physical collateral:
+- Minimum Loan Amount: INR 50,000.
+- Maximum Loan Amount: INR 2,500,000 (up to INR 4,000,000 for elite corporate employees).
+- Tenure Range: Minimum 12 months up to maximum 60 months (5 years) in 6-month steps.
+- Repayment: Equated Monthly Installment (EMI) collected via National Automated 
+  Clearing House (NACH) e-mandate or internal standing instruction.
+
+--------------------------------------------------------------------------------
+4. RISK-BASED INTEREST RATE MATRIX
+--------------------------------------------------------------------------------
+Interest rates are pegged to the applicant's CIBIL score and corporate employer category:
+
++----------------------+--------------------+---------------------------------+
+| CIBIL Score Tier     | Corporate Tier A/B | Other Salaried & Self-Employed  |
++----------------------+--------------------+---------------------------------+
+| 775 and above        | 10.50% - 11.25%    | 11.75% - 12.50%                 |
+| 730 to 774           | 11.50% - 12.50%    | 12.75% - 13.75%                 |
+| 700 to 729           | 13.00% - 14.25%    | 14.50% - 15.50%                 |
+| Below 700            | Ineligible / Decl  | Ineligible / Declined           |
++----------------------+--------------------+---------------------------------+
+
+Note: Rates are fixed for the entire loan tenor and computed on a reducing balance basis.
+
+--------------------------------------------------------------------------------
+5. PROCESSING FEES & FORECLOSURE CHARGES
+--------------------------------------------------------------------------------
+- Processing Fee: 1.50% to 2.50% of the gross sanctioned loan amount (minimum 
+  INR 2,500, maximum capped at INR 15,000) plus applicable GST.
+- Pre-payment / Foreclosure Fees:
+  - Within 12 months of disbursement: 4.00% of outstanding principal + GST.
+  - Between 13 to 24 months: 3.00% of outstanding principal + GST.
+  - After 24 months: 2.00% of outstanding principal + GST.
+  - Part-prepayment: Up to 25% of principal allowed once per financial year after 12 EMIs.
+
+--------------------------------------------------------------------------------
+6. POLICY EXCEPTIONS
+--------------------------------------------------------------------------------
+- Existing MNB Home Loan Borrowers: Concessional interest rate discount of 0.50% 
+  with pre-approved top-up eligibility if home loan vintage exceeds 24 clean payments.
+- Defense Personnel: Flat interest rate of 10.25% p.a. with 100% waiver of processing fee.

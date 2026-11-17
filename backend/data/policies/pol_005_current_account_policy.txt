@@ -1,0 +1,41 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB) — OFFICIAL POLICY MANUAL
+POLICY CODE: MNB-POL-005 | CATEGORY: COMMERCIAL BANKING
+TITLE: BUSINESS CURRENT ACCOUNT TERMS & MINIMUM BALANCE
+VERSION: 2.0 | EFFECTIVE DATE: 2024-01-01 | CLASSIFICATION: PUBLIC
+================================================================================
+
+[PAGE 1 OF 2: MINIMUM BALANCE REQUIREMENTS & CHARGES]
+
+1. ACCOUNT PURPOSE & OPERATIONAL SCOPE
+Meridian Business Current Accounts provide non-interest-bearing transactional accounts tailored for trading entities, commercial enterprises, corporations, and self-employed professionals requiring high-volume fluid fund movements.
+
+2. MINIMUM BALANCE REQUIREMENTS
+- Minimum Monthly Average Balance (MAB): Mandatory Monthly Average Balance of ₹10,000 across all standard Business Current Account variants.
+- Premium Business Tier Option: Optional Meridian Premium Current Account variant requires an MAB of ₹50,000 with unlimited free monthly cash deposits.
+- Calculation Formula: Sum of daily end-of-day closing balances for the calendar month divided by total calendar days in that month.
+
+3. NON-MAINTENANCE CHARGES & SHORTFALL PENALTIES
+If the maintained Monthly Average Balance falls below the mandatory ₹10,000 requirement, non-maintenance penalties are levied per the following tiered scale:
+- Moderate Shortfall (Maintained MAB between ₹5,000 and ₹9,999): Penalty of ₹500 + 18% GST per month.
+- Severe Shortfall (Maintained MAB below ₹5,000): Penalty of ₹750 + 18% GST per month.
+- Free Monthly Cash Deposit Allowance: Cash deposits up to ₹5,00,000 or 10 transactions per month (whichever is reached first) are free of charge at the home branch. Beyond free limits: ₹3 per ₹1,000 deposited (minimum ₹50).
+
+================================================================================
+[PAGE 2 OF 2: ENTITY ELIGIBILITY & DOCUMENTATION]
+
+4. ELIGIBLE COMMERCIAL ENTITIES
+Meridian National Bank opens Current Accounts for the following recognised entity classifications:
+- Sole Proprietorship Firms (individual trading businesses).
+- Partnership Firms (registered and unregistered partnerships with formal partnership agreements).
+- Limited Liability Partnerships (LLPs registered under the LLP Act).
+- Private Limited & Public Limited Companies (incorporated under Companies Act).
+- Trusts, Associations, Societies, Clubs, and Non-Governmental Organisations (NGOs).
+
+5. MANDATORY BUSINESS ONBOARDING DOCUMENTATION
+To open a Business Current Account, the entity must submit verified copies of:
+- Entity Proof: Certificate of Incorporation, GST Registration Certificate, Udyam Aadhar Registration, Trade Licence, or Partnership Registration Certificate.
+- Constitutional Documents: Memorandum and Articles of Association (MOA & AOA), LLP Agreement, Partnership Deed, or Trust Bye-laws.
+- Tax & Identity Proof: Entity Permanent Account Number (PAN) Card, along with KYC documents (Aadhaar & PAN) of all beneficial owners, partners, and authorised signatories.
+- Operational Authorization: Board Resolution on company letterhead empowering specific directors/officers to open and operate bank accounts with defined cheque signing limits.
+- Initial Funding Cheque: Drawn from the applicant's existing bank account or principal promoters' account matching KYC records.

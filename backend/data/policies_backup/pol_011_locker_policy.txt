@@ -1,0 +1,47 @@
+================================================================================
+MERIDIAN NATIONAL BANK (MNB)
+DOCUMENT: POL-011 | Locker and Vault Services Policy
+VERSION: 1.2 | STATUS: ACTIVE | EFFECTIVE: 2024-06-01
+CLASSIFICATION: PUBLIC | SYNTHETIC DEMO DATA ONLY
+================================================================================
+
+SECTION 1: LOCKER SIZES AND ANNUAL RENT
+
+Locker Size    Dimensions (HxWxD cm)    Annual Rent (INR)
+-----------    ---------------------    -----------------
+Small          10 × 23 × 45             INR 1,500
+Medium         20 × 23 × 45             INR 2,500
+Large          30 × 45 × 45             INR 4,500
+Extra Large    60 × 45 × 45             INR 8,000
+
+Premium savings and Elite savings account holders receive 25% discount on locker rent.
+
+SECTION 2: SECURITY DEPOSIT (REFUNDABLE)
+Small: INR 3,000 | Medium: INR 5,000 | Large: INR 9,000 | Extra Large: INR 15,000
+Security deposit is refundable on closure of locker without interest.
+
+SECTION 3: ACCESS CONDITIONS
+3.1 Operating hours: Branch banking hours (typically 10:00 AM – 3:00 PM, Mon–Sat)
+3.2 Saturday access: Available at designated branches only
+3.3 Joint locker: Requires both holders to be present unless "Either or Survivor" mandate
+3.4 Maximum access frequency: Unlimited (subject to branch capacity)
+
+SECTION 4: NOMINATION
+Nomination is mandatory at the time of locker allotment.
+Nominees may access locker only on death of all holders with death certificate and
+valid identity proof. Valuables handed over under panchanama.
+
+SECTION 5: LOCKER BREAK-OPEN POLICY
+If rent is unpaid for 3 consecutive years:
+1. MNB sends 3 registered notices (30 days apart)
+2. If no response, locker is broken open in presence of two independent witnesses
+3. Contents inventoried, sealed, and stored for 5 years
+4. Unclaimed contents are auctioned; proceeds deposited with RBI
+
+SECTION 6: LIABILITY LIMITATION
+MNB is not responsible for loss of contents due to natural disasters, war, or acts
+of God. Liability for bank negligence is limited to 100 times the annual locker rent.
+Customers are advised to insure locker contents independently.
+
+Document Ref: MNB/POL/011/2024 | Approved by: Head of Branch Operations
+================================================================================
